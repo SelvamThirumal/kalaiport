@@ -113,7 +113,7 @@ export default function Navbar() {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-tr from-indigo-600 via-indigo-500 to-purple-500 flex items-center justify-center text-white shadow-md shadow-indigo-500/25 group-hover:scale-105 transition-transform">
               <span className="text-sm font-black tracking-tighter">KR</span>
             </div>
-            <span className="tracking-widest">KALAIVANI S</span>
+            <span className="tracking-widest">KALAIVANI RAMESH</span>
             
           </Link>
 
